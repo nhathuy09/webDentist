@@ -86,11 +86,13 @@ a{
    padding-top: 30px;
     background-color: var(--header-bg);
     min-height: 100vh;
+    
 }
 .header-top{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
 }
 .navbar__list{
     display: flex;
